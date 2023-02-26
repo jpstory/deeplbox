@@ -175,6 +175,10 @@
     "message": "Japanese",
     "description": "Language name."
   },
+  "language_ko": {
+    "message": "Korean",
+    "description": "Language name."
+  },
   "language_lt": {
     "message": "Lithuanian",
     "description": "Language name."
